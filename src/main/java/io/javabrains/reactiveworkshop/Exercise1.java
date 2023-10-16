@@ -10,9 +10,6 @@ import static io.javabrains.reactiveworkshop.StreamSources.userStream;
 public class Exercise1 {
 
     public static void main(String[] args) {
-
-        // Use StreamSources.intNumbersStream() and StreamSources.userStream()
-
         System.out.println("Print all numbers in the intNumbersStream stream");
         intNumbersStream().forEach(System.out::println);
 
