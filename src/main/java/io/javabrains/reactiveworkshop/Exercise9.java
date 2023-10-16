@@ -4,7 +4,6 @@ import java.io.IOException;
 
 public class Exercise9 {
 
-
     public static void main(String[] args) throws IOException {
 
         // Use ReactiveSources.intNumbersFlux()
@@ -21,5 +20,4 @@ public class Exercise9 {
         System.out.println("Press a key to end");
         System.in.read();
     }
-
 }

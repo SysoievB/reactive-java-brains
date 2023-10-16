@@ -6,7 +6,6 @@ import java.io.IOException;
 
 public class Exercise8 {
 
-
     public static void main(String[] args) throws IOException {
 
         // Use ReactiveSources.intNumbersFluxWithException()
@@ -24,5 +23,4 @@ public class Exercise8 {
         System.out.println("Press a key to end");
         System.in.read();
     }
-
 }

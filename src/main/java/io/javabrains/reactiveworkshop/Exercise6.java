@@ -4,7 +4,6 @@ import java.io.IOException;
 
 public class Exercise6 {
 
-
     public static void main(String[] args) throws IOException {
 
         // Use ReactiveSources.unresponsiveFlux() and ReactiveSources.unresponsiveMono()
@@ -19,5 +18,4 @@ public class Exercise6 {
         System.out.println("Press a key to end");
         System.in.read();
     }
-
 }

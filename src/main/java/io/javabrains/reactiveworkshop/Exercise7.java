@@ -4,7 +4,6 @@ import java.io.IOException;
 
 public class Exercise7 {
 
-
     public static void main(String[] args) throws IOException {
 
         // Use ReactiveSources.intNumberMono() and ReactiveSources.userMono()
