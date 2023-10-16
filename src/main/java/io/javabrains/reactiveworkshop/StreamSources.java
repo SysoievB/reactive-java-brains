@@ -25,7 +25,7 @@ public class StreamSources {
                 new User(2, "Cristiano", "Ronaldo"),
                 new User(2, "Diego", "Maradona"),
                 new User(4, "Zinedine", "Zidane"),
-                new User(5, "Jürgen", "Klinsmann"),
+                new User(5, "Jurgen", "Klinsmann"),
                 new User(6, "Gareth", "Bale")
         );
     }
